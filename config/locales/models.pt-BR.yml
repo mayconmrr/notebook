@@ -9,7 +9,10 @@
         other: Endereços    
       phone: 
         one: Telefone
-        other: Telefones                
+        other: Telefones
+      kind: 
+        one: Tipo
+        other: Tipos                        
     attributes:
       contact:
         name: Nome
@@ -25,3 +28,5 @@
         contact: Contato
       phone:
         phone: Telefone
+      kind:
+        description: Descrição

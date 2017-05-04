@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-
+gem 'bundler', '>= 1.8.4'
+gem 'rails-assets-notifyjs', source: 'https://rails-assets.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 # A library for generating fake data such as names, addresses, and phone numbers.
@@ -20,6 +21,7 @@ gem 'rails-i18n'
 gem 'cocoon'
 gem 'kaminari'
 gem 'kaminari-i18n'
+gem 'rails-assets-bootstrap', source: 'https://rails-assets.org'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
