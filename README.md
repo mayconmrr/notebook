@@ -23,7 +23,7 @@ bin/setup
 
 Run in you console:
 ```
-rails dev:utils   
+rake utils:seed  
 ```
 
 
