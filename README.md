@@ -1,24 +1,29 @@
-# README
+# Ruby on Rails - NoteBook Project 
+This is a personal notebook where you can create new contacts and put relevant information about the contact.
+Is possible as well, to specify the type of each contact, creating any contacts type that you want to.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Ruby version
+ruby 2.4.0
 
-Things you may want to cover:
+## Rails version
+Rails 5.1.0
 
-* Ruby version
+## System dependencies
 
-* System dependencies
+* Any *nix plataform 
 
-* Configuration
 
-* Database creation
+## Setup 
+Run in your console: 
+```
+bin/setup
+``` 
 
-* Database initialization
+## Rake Tasks
 
-* How to run the test suite
+Run in you console:
+```
+rails dev:setup   
+```
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
